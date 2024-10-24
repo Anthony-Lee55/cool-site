@@ -33,8 +33,6 @@ a {
   font-size: smaller;
 }
 
-
-
 .blogImg {
   background-image: url(premium_photo-1683140593902-5d2e4bef89c1.avif);
   min-height: 300px;
@@ -58,6 +56,10 @@ footer a {
   text-decoration: none;
   cursor: pointer;
   font-size: small;
-  padding-left: 1em;
+  padding-left: 2em;
   margin-left: 1em;
+}
+
+footer p {
+  font-size: smaller;
 }
